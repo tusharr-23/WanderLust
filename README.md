@@ -1,0 +1,1 @@
+Wanderlust is a user-friendly Airbnb clone where you can find, and list rental properties effortlessly. It also lets users leave ratings and reviews for a better booking experience. Built with HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB, it ensures a smooth and reliable experience for travelers and hosts.
